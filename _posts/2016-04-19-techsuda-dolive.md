@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 안녕하세요. 테크수다 고객 여러분. 도안구 기잡니다.
-datePublished: '2016-04-19T22:01:37.158Z'
-dateModified: '2016-04-19T22:01:25.734Z'
+datePublished: '2016-04-19T22:09:46.231Z'
+dateModified: '2016-04-19T22:09:22.579Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-techsuda-dolive.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-techsuda-dolive.md
-published: true
 url: techsuda-dolive/index.html
 _type: Blurb
 
