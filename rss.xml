@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[TSNetwork]]></title>
         <description><![CDATA[TSNetwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techsuda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 05:30:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 05:37:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techsuda/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&#xB3C4;&#xB77C;&#xC774;&#xBE0C; &#xD14C;&#xD06C; : &#xCD5C;&#xC11D;&#xC8FC; &#xCC28;&#xC7A5;&#xC774; &#xC54C;&#xB824;&#xC8FC;&#xB294; &#xB808;&#xB4DC;&#xD587; &#xC2A4;&#xD1A0;&#xB9AC;&#xC9C0;" src="https://scontent.xx.fbcdn.net/hvthumb-xfp1/v/t15.0-10/p160x160/12441304_1075105965896154_1384509819_n.jpg?oh=cf80bb1c2cf6dce4798ef1fa61c83c33&oe=57794048">]]></description>
             <link>https://www.facebook.com/Techsuda/videos/1075080019232082/</link>
             <guid isPermaLink="false">b39de4e4-806c-45c1-8304-68d10bfe12d6</guid>
             <pubDate>Thu, 21 Apr 2016 05:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="DoLive interview : Doug Cutting, The creator of Hadoop" src="https://scontent.xx.fbcdn.net/v/t15.0-10/p160x160/12378136_1070779206328830_439207347_n.jpg?oh=8bc421a9b5b5dcbbc794b9c9a839eb13&oe=57AE2952">]]></description>
+            <link>https://www.facebook.com/Techsuda/videos/1070736619666422/</link>
+            <guid isPermaLink="false">e0285ff1-4e42-46fb-b6f7-4622e68bef75</guid>
+            <pubDate>Thu, 21 Apr 2016 05:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
