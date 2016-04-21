@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TSNetwork]]></title>
-        <description><![CDATA[TSNetwork]]></description>
+        <title><![CDATA[TechSuda News]]></title>
+        <description><![CDATA[TechSuda News]]></description>
         <link>https://thegrid.ai/techsuda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 05:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 06:51:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/techsuda/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.facebook.com/Techsuda/videos/1075080019232082/</link>
             <guid isPermaLink="false">b39de4e4-806c-45c1-8304-68d10bfe12d6</guid>
             <pubDate>Thu, 21 Apr 2016 05:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41bac1b8-05c9-4d2b-9eaf-095b3c108709.jpg">]]></description>
+            <link>https://thegrid.ai/techsuda/b162b334-77a1-455e-a15a-1b621a508945/index.html</link>
+            <guid isPermaLink="false">b162b334-77a1-455e-a15a-1b621a508945</guid>
+            <pubDate>Thu, 21 Apr 2016 06:50:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
